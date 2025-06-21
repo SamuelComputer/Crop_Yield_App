@@ -76,5 +76,10 @@ The **Random Forest Regressor** outperformed other models based on evaluation me
 - Model evaluation metrics display
 - Simple, clean user interface using Streamlit
 
+---
+
+## Live Demo
+
+You can try the live version of the application here: [Crop Yield Prediction App](https://croppy.streamlit.app/)
 
 ---
