@@ -47,6 +47,6 @@ if st.button("Predict"):
 
     st.success(f"Predicted Crop Yield: {predicted_yield:.2f} hg/ha")
 
-st.write("© 2025 Smart Agro ")
+st.write("© 2025 Crop Yield Prediction App ")
 
 st.write("Contact me here, samuelsundayiyanu@gmail.com")
