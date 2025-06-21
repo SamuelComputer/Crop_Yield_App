@@ -75,6 +75,6 @@ The **Random Forest Regressor** outperformed other models based on evaluation me
 - Interactive input fields for real-time predictions
 - Model evaluation metrics display
 - Simple, clean user interface using Streamlit
-- Visualizations for better insights
+
 
 ---
