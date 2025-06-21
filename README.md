@@ -78,9 +78,3 @@ The **Random Forest Regressor** outperformed other models based on evaluation me
 - Visualizations for better insights
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
